@@ -1,16 +1,31 @@
-## Hi there 👋
+#  مرحباً بك، أنا عبد القادر بلعريبي
 
-<!--
-**AbdelkaderBelaribi/AbdelkaderBelaribi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+أنا خريج تسيير وإدارة، ومصمم جرافيكي ومهتم بالبرمجيات الحرة.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 نبذة عني
+أعمل على تطوير مهاراتي في:
+- تصميم الشعارات
+- الهوية البصرية
+- تصميم UI بسيط
+
+---
+
+## 🧠 المهارات
+- Photoshop
+- Illustrator
+- Inkscape
+- Branding
+- UI Design
+
+---
+
+## 🖼️ أعمالي
+يمكنك مشاهدة أعمالي داخل الموقع أو عبر الصور في هذا المستودع.
+
+---
+
+## 📫 تواصل معي
+- Tel: +213 0699356606
+- Email: AbdelkaderBelaribi@proton.me
